@@ -41,7 +41,7 @@ func TestCallEdgeApi_post(t *testing.T) {
 ```
 
 ## SDK for other languages
-GitHub repository: https://github.com/EMCProtocol-dev/emc_node
+GitHub repository: https://github.com/EMCProtocol-dev/
 
 ##  AI Sample for Stable Diffusion nodes
 Address: https://6tq33-2iaaa-aaaap-qbhpa-cai.icp0.io/
